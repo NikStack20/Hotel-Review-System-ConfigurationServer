@@ -41,7 +41,7 @@ Each microservice connects to the Config Server on startup to retrieve its confi
 
 ## 🚀 Setup Instructions
 
-### 1️⃣ Create Project via Spring Initializer
+### 1️⃣ Create Project via Spring Initializer 
 
 Use Spring Initializer with:
 
@@ -52,7 +52,7 @@ Use Spring Initializer with:
   - Spring Cloud Config Server
   - Eureka Discovery Client (if using service registry)
 
-Or manually add:
+Or manually add: 
 
 ```xml
 <dependency>
